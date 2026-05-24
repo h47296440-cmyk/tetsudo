@@ -1,0 +1,6 @@
+{
+  "name": "災害鉄道復旧＆物流シミュレーター希望の架け橋",
+  "description": "被災して不通となった三陸沿岸鉄道を、予算・資材（バラスト・レール・枕木・信号装置）の調達と高効率な輸送便、施工技術者の采配を駆使して繋ぎ直す本格派災害インフラ復帰シミュレーション。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
